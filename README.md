@@ -1,4 +1,4 @@
-# Spaceship Kaggle challange
+# Kaggle Spaceship Challange
 
 ausprobieren der Kaggle - Space-Titanic-Challange, wo man Klassifizieren soll, 
 ob ein Passagier in eine Alternative Dimension gezehrt wurde oder nicht. 
